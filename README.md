@@ -1,7 +1,7 @@
 # pycharty
-pycharty creates minimal, beautiful and fully responsive bar charts for your presentations with Python.
-## Why use pychart?
-Just use your dataframe and pychart will figure out the perfect configuration based on your data. 
+pycharty creates minimal, beautiful and fully responsive Python bar charts for your presentations.
+## Why use pycharty?
+Just use your dataframe and pycharty will figure out the perfect configuration based on your data. 
 ## Examples
 ```
 pycharty(df,
