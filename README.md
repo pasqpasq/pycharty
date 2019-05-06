@@ -14,7 +14,8 @@ pycharty(df,
 ```
 ![Preview 1](https://i.imgur.com/Xs0fxAV.png)
 
-![Preview 2](https://i.imgur.com/Xg3JgZd.png)
+![Preview 2](https://i.imgur.com/NJfB1sX.png)
+
 ## Dataframe structure
 Group | Type | Value 
 ----- | ---- | ------
