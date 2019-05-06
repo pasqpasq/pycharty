@@ -1,9 +1,8 @@
 # pycharty
-PyCharty creates minimal and beautiful fully responsive charts with Python, for your presentations. You just have to give the data frame as input and size, everything else is done automatically by the module (font size, bar widths, spaces, etc).
+pycharty creates minimal, beautiful and fully responsive bar charts for your presentations with Python.
 ## Why use pychart?
-
+Just use your dataframe and pychart will figure the optimal bar widths and configuration based on your data. 
 ## Examples
-
 Group | Type | Value 
 ----- | ---- | ------
 A | Type 1 | 1
@@ -19,10 +18,12 @@ C | Type 3 | 9
 ```
 pycharty(df,
          size     = .5,
-         stacked  = False,
-         theme    = 'blue',
+         stacked  = False, # or 'True'
+         theme    = 'blue', # or 'pink' or 'yellow'
          title    = 'This is the title',
          legend   = True,
          )
 ```
-![Image of Yaktocat](https://i.imgur.com/Xs0fxAV.png)
+![Preview 1](https://i.imgur.com/Xs0fxAV.png)
+
+![Preview 2](https://i.imgur.com/NMUFWd1.png)
